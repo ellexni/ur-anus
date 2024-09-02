@@ -1,0 +1,27 @@
+**UR-ANUS HAS ENTERED YOUR ORBIT!**
+
+thank you for inviting ur-anus into your server! here is the list of commands (pin for easy use):
+
+***FUNCTIONAL COMMANDS***
+```
+hello - prompts ur-anus to give a cute little message to you!
+leave - prompts ur-anus to leave a voice-channel
+join - prompts ur-anus to join a voice-channel
+```
+
+***POOP COMMANDS*** - commands that send meme photos in a text-channel
+```
+bruh - produces a random :| photo
+side eye - produces a side eye photo
+```
+
+***FART COMMANDS*** - commands that play meme audios in a voice-channel
+```
+boom - produces vine boom audios
+happy - produces "happy happy happy" cat audio
+```
+
+*to activate poop/fart commands format the following way:*
+```"poop_[command]" or "fart_[command]"```
+
+enjoy farting and pooping with ur-anus!
